@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "antd": "^5.22.2",
     "bcryptjs": "^2.4.3",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.8.3",

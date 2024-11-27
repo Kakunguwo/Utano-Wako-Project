@@ -1,11 +1,10 @@
 
-import { Button } from 'antd';
 import React from 'react';
 
 export default function Home() {
   return (
     <div>
-      <Button type="primary">Button</Button>
+      <h1>Button</h1>
     </div>
   );
 }
